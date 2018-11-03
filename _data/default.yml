@@ -1,5 +1,5 @@
 brand:
-  name: Start Bootstrap
+  name: Kelly and Andrew
 menu-string: Menu
 
 nav:
@@ -14,13 +14,13 @@ nav:
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright &copy; Kelly and Andrew
 
 social-buttons:
-  - icon: fa fa-twitter
-    url: '#' 
-  - icon: fa fa-facebook
-    url: '#'
+  # - icon: fa fa-twitter
+  #   url: '#' 
+  # - icon: fa fa-facebook
+  #   url: '#'
 #  - icon: fa fa-linkedin
 #   url: '#'
 

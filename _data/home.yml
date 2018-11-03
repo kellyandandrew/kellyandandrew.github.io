@@ -1,7 +1,7 @@
 intro:
-  lead-in: "Championship Lindy Hoppers"
-  heading: Orange County Dancers
-  btn: About Us
+  lead-in: 
+  heading: 
+  btn: About Kelly and Andrew
 
 services:
   heading: Services
@@ -23,7 +23,7 @@ portfolio:
 
 about:
   heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Our journey so far.
   timeline:
     - image: img/about/1.jpg
       date: 2012
@@ -57,9 +57,9 @@ team:
         # - icon: fa fa-twitter
         #   url: "#" 
         - icon: fa fa-facebook
-          url: "#"
+          url: "https://www.facebook.com/pintscized"
         - icon: fa fa-instagram
-          url: "#"
+          url: "https://www.instagram.com/kellzapoppin/"
         
     - name: Andrew Jose
       role: 10+ years dancing Lindy Hop
@@ -68,9 +68,9 @@ team:
         # - icon: fa fa-twitter
         #   url: "#"
         - icon: fa fa-facebook
-          url: "#"
+          url: "https://www.facebook.com/andrew.jose"
         - icon: fa fa-instagram
-          url: "#"
+          url: "https://www.instagram.com/andrewjozay/"
 
     # - name: Diana Pertersen
     #   role: Lead Developer
