@@ -5,42 +5,42 @@ intro:
 
 services:
   heading: Services
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Andrew and Kelly are accomplished...
   service:
-    - icon: fa fa-shopping-cart
-      heading: E-Commerce
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-laptop
-      heading: Responsive Design
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    - icon: fa fa-lock
-      heading: Web Security
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - icon: fa fa-trophy
+      heading: Competitors
+      text: They have won titles at the International Lindy Hop Championships, National Jitterbug Chapionships, and many other competitions.
+    - icon: fa fa-graduation-cap
+      heading: Teachers
+      text: They teach at LindyGroove in Pasadena, and Atomic Ballroom.
+    - icon: fa fa-music
+      heading: DJs
+      text: Both are in-demand DJs all over Southern California.
 
 portfolio:
-  heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Videos
+  subheading: Various highlights of Andrew and Kelly's dancing
 
 about:
   heading: About
   subheading: Lorem ipsum dolor sit amet consectetur.
   timeline:
     - image: img/about/1.jpg
-      date: 2009-2011
+      date: 2012
       title: Our Humble Beginnings
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      text: We began our partnership, and made finals at the 2013 National Jitterbug Championships.
     - image: img/about/2.jpg
-      date: March 2011
-      title: An Agency is Born
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: 2013
+      title: A New Challenger is Born
+      text: We place 3rd at the 2014 National Jitterbug Championships.
     - image: img/about/3.jpg
-      date: December 2012
-      title: Transition to Full Service
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: 2014
+      title: Champions
+      text: We make finals at the 2015 International Lindy Hop Championships. We place 1st at the 2015 National Jitterbug Championships.
     - image: img/about/4.jpg
-      date: July 2014
-      title: Phase Two Expansion
-      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      date: 2015
+      title: Champions Again!
+      text: We place 1st at the 2015 International Lindy Hop Championships.
 
   end1: ...
   # end2: Of Our
@@ -48,10 +48,10 @@ about:
 
 team:
   heading: Get in touch!
-  subheading: We are available to book for private lessons, performances, and DJ.
+  subheading: We are available to book for private lessons, performances, and DJ gigs.
   members:
-    - name: Kay Garland
-      role: Lead Designer
+    - name: Kelly Young
+      role: 6+ years dancing
       img: img/team/1.jpg
       social-buttons:
         # - icon: fa fa-twitter
@@ -61,8 +61,8 @@ team:
         - icon: fa fa-instagram
           url: "#"
         
-    - name: Larry Parker
-      role: Lead Marketer
+    - name: Andrew Jose
+      role: 10+ years dancing
       img: img/team/2.jpg
       social-buttons:
         # - icon: fa fa-twitter
