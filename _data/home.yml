@@ -48,10 +48,10 @@ about:
 
 team:
   heading: Get in touch!
-  subheading: We are available to book for private lessons, performances, and DJ gigs.
+  subheading: 16+ years of dancing experience combined.
   members:
     - name: Kelly Young
-      role: 6+ years dancing
+      role: 6+ years dancing Lindy Hop, 20+ years dancing
       img: img/team/1.jpg
       social-buttons:
         # - icon: fa fa-twitter
@@ -62,7 +62,7 @@ team:
           url: "#"
         
     - name: Andrew Jose
-      role: 10+ years dancing
+      role: 10+ years dancing Lindy Hop
       img: img/team/2.jpg
       social-buttons:
         # - icon: fa fa-twitter
@@ -83,7 +83,7 @@ team:
     #     - icon: fa fa-linkedin
     #       url: "#"
 
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+  text: We are available to book for private lessons, performances, and DJ gigs.
 
 clients:
   - img: img/logos/envato.jpg
