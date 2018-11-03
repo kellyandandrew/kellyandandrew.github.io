@@ -4,6 +4,10 @@ body {
   @include body-font;
 }
 
+body.noScroll { /* ...or body.dialogShowing */
+  overflow: hidden;
+}
+
 p {
   line-height: 1.75;
 }
