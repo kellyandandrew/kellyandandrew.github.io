@@ -21,18 +21,18 @@ social-buttons:
     url: '#' 
   - icon: fa fa-facebook
     url: '#'
-  - icon: fa fa-linkedin
-    url: '#'
+#  - icon: fa fa-linkedin
+#   url: '#'
 
 quicklinks:
-  - title: Privacy Policy
-    url: '#'
-  - title: Terms of Use
-    url: '#'
+  # - title: Privacy Policy
+  #   url: '#'
+  # - title: Terms of Use
+  #   url: '#'
 
 modal:
   date-string: 'Date: '
   client-string: 'Client: '
   category-string: 'Category: '
   close-icon: 'fa fa-times'
-  close-string: 'Close Project'
+  close-string: 'Close'
