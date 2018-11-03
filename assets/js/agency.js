@@ -45,20 +45,7 @@
   })
   $('.portfolio-modal').on('hidden.bs.modal', function(e) {
     $(".navbar").removeClass("d-none");
+    $(".portfolio-modal iframe").attr("src", $(".portfolio-modal iframe").attr("src"));
   })
-
-
-$(document).ready(function(){
-    $('.modal').each(function(){
-            var src = $(this).find('iframe').attr('src');
-
-        $(this).on('click', function(){
-
-            $(this).find('iframe').attr('src', '');
-            $(this).find('iframe').attr('src', src);
-
-        });
-    });
-});
 
 })(jQuery); // End of use strict
