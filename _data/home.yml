@@ -1,7 +1,7 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  lead-in: "Championship Lindy Hoppers"
+  heading: Orange County Dancers, Competitors, DJs, Instructors
+  btn: About Us
 
 services:
   heading: Services
@@ -42,46 +42,46 @@ about:
       title: Phase Two Expansion
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
 
-  end1: Be Part
-  end2: Of Our
-  end3: Story!
+  end1: ...
+  # end2: Of Our
+  # end3: Story!
 
 team:
-  heading: Our Amazing Team
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: Get in touch!
+  subheading: We are available to book for private lessons, performances, and DJ.
   members:
     - name: Kay Garland
       role: Lead Designer
       img: img/team/1.jpg
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#" 
+        # - icon: fa fa-twitter
+        #   url: "#" 
         - icon: fa fa-facebook
           url: "#"
-        - icon: fa fa-linkedin
+        - icon: fa fa-instagram
           url: "#"
         
     - name: Larry Parker
       role: Lead Marketer
       img: img/team/2.jpg
       social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
+        # - icon: fa fa-twitter
+        #   url: "#"
         - icon: fa fa-facebook
           url: "#"
-        - icon: fa fa-linkedin
+        - icon: fa fa-instagram
           url: "#"
 
-    - name: Diana Pertersen
-      role: Lead Developer
-      img: img/team/3.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "#"
-        - icon: fa fa-facebook
-          url: "#"
-        - icon: fa fa-linkedin
-          url: "#"
+    # - name: Diana Pertersen
+    #   role: Lead Developer
+    #   img: img/team/3.jpg
+    #   social-buttons:
+    #     - icon: fa fa-twitter
+    #       url: "#"
+    #     - icon: fa fa-facebook
+    #       url: "#"
+    #     - icon: fa fa-linkedin
+    #       url: "#"
 
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
@@ -97,7 +97,7 @@ clients:
 
 contact:
   heading: Contact Us
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Feel free to write us with any questions, or just to say hi!
   name: Your Name *
   name-required: Please enter your name.
   email: Your Email *
