@@ -108,11 +108,10 @@
               <div class="col-lg-8 mx-auto">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/IJvRDU6X1k8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   <h2 class="text-uppercase">{{ project.title }}</h2>
                   <p class="item-intro text-muted">{{ project.description }}</p>
                   <img class="img-fluid d-block mx-auto" src="{{ assets_path }}{{ project.image }}" alt="">
-                  <iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
-
                   {% assign ws = '' %}
                   {{- project.content -}}
                   {% assign ws = '' %}                  <ul class="list-inline">
