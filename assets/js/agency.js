@@ -47,8 +47,6 @@
     $(".navbar").removeClass("d-none");
     // reloads the iframe so that if a video is playing, stops it
     $(e.delegateTarget).find("iframe").attr("src", $(e.delegateTarget).find("iframe").attr("src"));
-    // destroys iframe so that switching modals reloads the youtube embed
-    //$(".portfolio-modal iframe").empty();
   })
 
 })(jQuery); // End of use strict
