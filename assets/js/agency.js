@@ -45,8 +45,10 @@
   })
   $('.portfolio-modal').on('hidden.bs.modal', function(e) {
     $(".navbar").removeClass("d-none");
+    // destroys iframe so that switching modals reloads the youtube embed
     $(".portfolio-modal iframe").empty();
-    // $(".portfolio-modal iframe").attr("src", $(".portfolio-modal iframe").attr("src"));
+    // reloads the iframe so that if a video is playing, stops it
+    $(".portfolio-modal iframe").attr("src", $(".portfolio-modal iframe").attr("src"));
   })
 
 })(jQuery); // End of use strict
