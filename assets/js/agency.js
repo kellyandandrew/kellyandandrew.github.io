@@ -45,12 +45,9 @@
   })
   $('.portfolio-modal').on('hidden.bs.modal', function(e) {
     $(".navbar").removeClass("d-none");
-<<<<<<< HEAD
     // destroys iframe so that switching modals reloads the youtube embed
-    $(".portfolio-modal iframe").empty();
+    // $(".portfolio-modal iframe").empty();
     // reloads the iframe so that if a video is playing, stops it
-=======
->>>>>>> parent of fe758fb... testing iframe destroy logic
     $(".portfolio-modal iframe").attr("src", $(".portfolio-modal iframe").attr("src"));
   })
 
