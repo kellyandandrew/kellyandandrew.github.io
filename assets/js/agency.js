@@ -46,7 +46,7 @@
   $('.portfolio-modal').on('hidden.bs.modal', function(e) {
     $(".navbar").removeClass("d-none");
     // reloads the iframe so that if a video is playing, stops it
-    $(e.relatedTarget).find("iframe").attr("src", $(e.relatedTarget).find("iframe").attr("src"));
+    $(e.delegateTarget).find("iframe").attr("src", $(e.delegateTarget).find("iframe").attr("src"));
     // destroys iframe so that switching modals reloads the youtube embed
     //$(".portfolio-modal iframe").empty();
   })
